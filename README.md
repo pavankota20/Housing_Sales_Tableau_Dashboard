@@ -1,6 +1,9 @@
 #  **Washington House Sales Interactive Dashboard in Tableau**
 
-![dashboard](/Users/pavankumarkotapally/Downloads/tableau_dashboard/dashboard.png)
+
+<img width="1394" alt="dashboard" src="https://github.com/pavankota20/Housing_Sales_Tableau_Dashboard/assets/32268059/bc8e6fa5-c4f5-479a-bd11-e745279199f0">
+
+
 
 🏠 Welcome to my repository where I've channeled my curiosity about real estate trends into a practical, interactive dashboard using Tableau. 
 This dashboard is a deep dive into the Washington state housing market, showcasing its dynamics through various data visualizations.
